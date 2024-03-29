@@ -19,6 +19,7 @@
 ![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white)
+![amazonaws](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 <!--
 **hatacon97/hatacon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
