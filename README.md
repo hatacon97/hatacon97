@@ -2,6 +2,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatacon97)](https://github.com/hatacon97/github-readme-stats)
 
+![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
+![OracleDB](https://img.shields.io/badge/-OracleDB-1F305F?style=flat-square&logo=OracleDB&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ##### Hi there 👋
 
 <!--
