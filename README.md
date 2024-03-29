@@ -6,7 +6,7 @@
 
 ![자바](https://img.shields.io/badge/-JAVA-007396?style=flat&logo=JAVA&logoColor=ffffff) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Json](https://img.shields.io/badge/-Json-000000?style=flat&logo=json&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=flat&logo=nodedotjs&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
