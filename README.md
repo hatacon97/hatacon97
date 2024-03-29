@@ -1,6 +1,6 @@
 
 ##### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatacon97)](https://github.com/hatacon97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatacon97&langs_count=8)](https://github.com/hatacon97/github-readme-stats)
 
 ##### Stack
 ![자바](https://img.shields.io/badge/-JAVA-007396?style=flat&logo=JAVA&logoColor=ffffff) 
