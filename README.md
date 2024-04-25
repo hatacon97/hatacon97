@@ -21,7 +21,7 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white)
 ![Amazonaws](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazonaws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/-argo-EF7B4D?style=flat-square&logo=ArgoCD&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-argo-EF7B4D?style=flat-square&logo=Argo&logoColor=white)
 
 <!--
 **hatacon97/hatacon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
